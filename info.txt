@@ -1,0 +1,6 @@
+attached the sampleTemplate.yaml file
+this contains all the resource information
+-----------------------------------------
+name of stack in cloud formation is:
+myStack
+-----------------------------------------
